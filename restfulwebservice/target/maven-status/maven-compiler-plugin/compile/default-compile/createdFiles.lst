@@ -1,0 +1,6 @@
+helloworld\HelloWorldBean.class
+helloworld\HelloworldController.class
+com\rest\webservices\restfulwebservice\RestfulwebserviceApplication.class
+user\UserResource.class
+user\UserDaoService.class
+user\User.class

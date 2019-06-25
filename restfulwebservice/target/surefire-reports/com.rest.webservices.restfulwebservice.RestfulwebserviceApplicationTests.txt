@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.rest.webservices.restfulwebservice.RestfulwebserviceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.052 s - in com.rest.webservices.restfulwebservice.RestfulwebserviceApplicationTests
